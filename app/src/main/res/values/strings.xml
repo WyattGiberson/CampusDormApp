@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dorm And Meal Plan - WG</string>
+
+    <string-array name="halls_array" >
+        <item>Allen Hall</item>
+        <item>Pike Hall</item>
+        <item>Farthing Hall</item>
+        <item>University Suites</item>
+    </string-array>
+
+    <string-array name="meal_array" >
+        <item>7 meals per week</item>
+        <item>14 meals per week</item>
+        <item>Unlimited meals per week</item>
+    </string-array>
+</resources>
